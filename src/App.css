@@ -1,38 +1,181 @@
-.App {
+.mynav {
+  height: 100vh;
+}
+
+.mynav ul li {
+  list-style-type: none;
+  padding: 2%;
+}
+/* ***** Login Styling ***** */
+
+.login-container00{
+      display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.login-container {
+ 
+  background-color: white;
+  border: blanchedalmond;
+ 
+  padding: 60px;
+ 
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 500px;
+ 
+
+  /* text-align: center; */
+}
+
+h2 {
+  margin-bottom: 20px;
+  justify-content: center;
+  text-align: center;
+}
+.hr{
+  text-align: center;
+}
+.sgn{
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.input-group {
+  margin-bottom: 15px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.input-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
   color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
+button:hover {
+  background-color: #0056b3;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+/* ***** Signup Styling ***** */
+
+.signup-container00{
+    display: flex;
+      align-items: center;
+      justify-content: center;
 }
+
+.signup-container{
+  background-color: white;
+  border: blanchedalmond;
+  margin: 40px;
+  padding: 60px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width:500px;
+}
+.p1{
+  text-align: center;
+}
+
+/* ***** Topnav Styling ***** */
+.nav0{
+  background-color: #d6dbe6;
+}
+.nav1{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px 0px 20px;
+}
+
+.coursera_logo{
+  margin-top: 10px;
+
+}
+.Sicon0{
+  background-color: white;
+  padding: 7.4px;
+  border: 2px solid #1f1f1f;
+  border-top-left-radius:25px ;
+  border-bottom-left-radius: 25px;
+  border-right:none;
+
+}
+.Sicon1{
+   color: black
+
+}
+
+.nav_Search_bar{
+height: 40px;
+width: 450px;
+color: rgb(4, 4, 4);
+border: 2px solid #1f1f1f;
+border-left:none;
+padding: 5px;
+ border-top-right-radius: 25px; 
+  border-bottom-right-radius: 25px;
+
+} 
+.nav_ls_btn{
+  display: flex;
+  margin-right: 15px;
+}
+.nav_login_btn{
+  border-radius: 25px;
+padding: 10px 25px 10px 25px;
+}
+.nav_signup_btn{
+  border-radius: 25px;
+padding: 10px 25px 10px 25px;
+}
+
+/* ***** Sidenav Styling ***** */
+nav {
+  background-color: #0096ff;
+  color: white;
+  width: 60%;
+  height: 100vh;
+  max-width: 200px;
+  font-size: 20px; 
+  border-radius: 5px;
+}
+
+.sidenav0{
+  padding: 0;
+}
+    
+.navbar-nav{
+  padding: 30px;
+}
+
+.navbar-nav .nav-item {
+  padding: 10px;   
+}
+    
+    
+.navbar-nav .nav-item:hover {
+  background-color: white;
+  border-radius: 8px;
+ 
+   }
+    
+    
+ .navbar-nav .nav-item:hover a {
+   color: #0096ff;
+  }
+    
+    
+.navbar-nav .nav-item a {
+  color: white;
+  text-decoration: none;
+  }
