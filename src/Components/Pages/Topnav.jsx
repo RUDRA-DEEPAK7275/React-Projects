@@ -5,7 +5,7 @@ import Logo1 from '../Assets/Logos/Logo1.png'
 function Topnav() {
     return (
         <div>
-            <div className='navbar navbar-expand-lg nav0 '>
+            <div className='navbar navbar-expand-lg topnav0 '>
                 <div className='container-fluid nav1'>
 
                     {/* coursera logo */}

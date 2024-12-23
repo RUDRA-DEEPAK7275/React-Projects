@@ -2,6 +2,7 @@ import React from 'react'
 import Topnav from './Topnav'
 import Sidenav from './Sidenav'
 import {Row, Col} from "react-bootstrap"
+import Main from '../Pages/Main'
 
 function Dashboard() {
   return (
@@ -10,11 +11,11 @@ function Dashboard() {
       <div>
         <div>
           <Row>
-            <Col md={4}>
+            <Col md={2}>
               <Sidenav />
             </Col>
-            <Col md={8}>
-              
+            <Col md={10}>
+              <Main/>
             </Col>
           </Row>
         </div>
