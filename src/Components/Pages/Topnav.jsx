@@ -4,7 +4,7 @@ import Logo1 from '../Assets/Logos/Logo1.png'
 
 function Topnav() {
     return (
-        <div>
+        <div className='header'>
             <div className='navbar navbar-expand-lg topnav0 '>
                 <div className='container-fluid nav1'>
 

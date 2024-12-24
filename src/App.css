@@ -88,14 +88,16 @@ button:hover {
 }
 
 /* ***** Topnav Styling ***** */
+.header{
+  position:fixed;
+  margin-top: 0px;
+  width: 100%;
+}
+
 .topnav0{
   background-color: #d6dbe6;
 }
-.topnav0{
-  position: sticky;
-  top: 1px;
-  width: 100%;
-}
+
 .nav1{
   display: flex;
   justify-content: space-between;
@@ -188,6 +190,7 @@ nav {
   text-decoration: none;
   }
 /*  ***** Main Styling ***** */
+
 .mc{
   display: flex;
   width: 100%;
@@ -195,11 +198,16 @@ nav {
 }
 .mc1{
  
-  border:3px rgba(171, 166, 166, 0.561) solid;
+  border:3px rgba(255, 252, 252, 0.999) solid;
   border-radius: 10px;
   width: 100%;
   margin: 6px;
-  flex-wrap: wrap;
-  justify-content: center;
-  text-align: center;
+ text-align: center;
+  
+  
+}
+.mc1:hover {
+ background-color:rgba(190, 174, 174, 0.4) ; 
+ transform: scale(1.1);
+
 }
