@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/React-Projects/static/css/main.1fdd6b6b.css",
+    "main.js": "/React-Projects/static/js/main.cc601e04.js",
+    "static/js/453.d0f8e87a.chunk.js": "/React-Projects/static/js/453.d0f8e87a.chunk.js",
+    "static/media/trd12.jpg": "/React-Projects/static/media/trd12.cec0bb69b5a249bcb65b.jpg",
+    "static/media/trd9.jpg": "/React-Projects/static/media/trd9.63972a7ce42c1d1ffe77.jpg",
+    "static/media/chatgpt11.jpg": "/React-Projects/static/media/chatgpt11.5b052f0a31063fc3f63e.jpg",
+    "static/media/trd3.jpg": "/React-Projects/static/media/trd3.a71e2a80d67841dfa4e0.jpg",
+    "static/media/wd1.jpg": "/React-Projects/static/media/wd1.a71e2a80d67841dfa4e0.jpg",
+    "static/media/trd17.jpg": "/React-Projects/static/media/trd17.2b6f52480117a442b287.jpg",
+    "static/media/chatgpt5.jpg": "/React-Projects/static/media/chatgpt5.ebad92505f3395b8dcae.jpg",
+    "static/media/ds12.jpg": "/React-Projects/static/media/ds12.077c83f5ebe8205395eb.jpg",
+    "static/media/ss7.jpg": "/React-Projects/static/media/ss7.a76b63c46004344c592b.jpg",
+    "static/media/ss13.jpg": "/React-Projects/static/media/ss13.9830e7241384176d4e8e.jpg",
+    "static/media/wd9.jpg": "/React-Projects/static/media/wd9.9b1a67511b84d727f2c1.jpg",
+    "static/media/trd1.jpg": "/React-Projects/static/media/trd1.6ffed6f7b0ae4c2bb368.jpg",
+    "static/media/chatgpt16.jpg": "/React-Projects/static/media/chatgpt16.56fa401772411783dc68.jpg",
+    "static/media/ds11.jpg": "/React-Projects/static/media/ds11.3f69eadd7cf5e411deeb.jpg",
+    "static/media/chatgpt12.jpg": "/React-Projects/static/media/chatgpt12.a37e490932542fb70182.jpg",
+    "static/media/chatgpt13.jpg": "/React-Projects/static/media/chatgpt13.9edd051d69fb7c073b90.jpg",
+    "static/media/ss8.jpg": "/React-Projects/static/media/ss8.4e58f6fed28f726b9be2.jpg",
+    "static/media/ds15.jpg": "/React-Projects/static/media/ds15.16cb40b72d7706591010.jpg",
+    "static/media/ss4.jpg": "/React-Projects/static/media/ss4.70bb678bbc437e571e25.jpg",
+    "static/media/ss1.jpg": "/React-Projects/static/media/ss1.d79f1f41ec3e3a450443.jpg",
+    "static/media/chatgpt3.jpg": "/React-Projects/static/media/chatgpt3.faac39994c8e52f1823a.jpg",
+    "index.html": "/React-Projects/index.html",
+    "main.1fdd6b6b.css.map": "/React-Projects/static/css/main.1fdd6b6b.css.map",
+    "main.cc601e04.js.map": "/React-Projects/static/js/main.cc601e04.js.map",
+    "453.d0f8e87a.chunk.js.map": "/React-Projects/static/js/453.d0f8e87a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fdd6b6b.css",
+    "static/js/main.cc601e04.js"
+  ]
+}
