@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Projects/static/css/main.1fdd6b6b.css",
-    "main.js": "/React-Projects/static/js/main.cc601e04.js",
+    "main.js": "/React-Projects/static/js/main.df708f30.js",
     "static/js/453.d0f8e87a.chunk.js": "/React-Projects/static/js/453.d0f8e87a.chunk.js",
     "static/media/trd12.jpg": "/React-Projects/static/media/trd12.cec0bb69b5a249bcb65b.jpg",
     "static/media/trd9.jpg": "/React-Projects/static/media/trd9.63972a7ce42c1d1ffe77.jpg",
@@ -26,11 +26,11 @@
     "static/media/chatgpt3.jpg": "/React-Projects/static/media/chatgpt3.faac39994c8e52f1823a.jpg",
     "index.html": "/React-Projects/index.html",
     "main.1fdd6b6b.css.map": "/React-Projects/static/css/main.1fdd6b6b.css.map",
-    "main.cc601e04.js.map": "/React-Projects/static/js/main.cc601e04.js.map",
+    "main.df708f30.js.map": "/React-Projects/static/js/main.df708f30.js.map",
     "453.d0f8e87a.chunk.js.map": "/React-Projects/static/js/453.d0f8e87a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fdd6b6b.css",
-    "static/js/main.cc601e04.js"
+    "static/js/main.df708f30.js"
   ]
 }
