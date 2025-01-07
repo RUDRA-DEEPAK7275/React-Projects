@@ -2,7 +2,7 @@ import React from 'react'
 import Topnav from './Topnav'
 import Sidenav from './Sidenav'
 import {Row, Col} from "react-bootstrap"
-import Main from '../Pages/Main'
+import Main from './Pages/Main'
 
 function Dashboard() {
   return (
