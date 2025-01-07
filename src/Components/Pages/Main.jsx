@@ -37,7 +37,7 @@ function Main() {
                                     {a.title.slice(30, 70)}</p>
 
                                 <p style={{fontWeight:'light'}}>{a.instructor.slice(0, 30)}
-                                    {a.instructor.slice(30,70)}
+                                    {a.instructor.slice(30, 70)}
                                 </p>
                                 <p><Rating name="size-medium" defaultValue={4.5} /></p>
                                 <p>{a.price}</p>

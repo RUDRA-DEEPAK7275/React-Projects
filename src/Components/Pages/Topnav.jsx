@@ -35,7 +35,7 @@ function Topnav() {
 
                     <div className='nav_ls_btn '>
                         <Link to='/signup'><button className='nav_signup_btn nav_btn'>Sign up</button></Link>
-                        <Link to='/'><button className='nav_login_btn nav_btn'>Log in</button></Link>
+                        <Link to='/React-Projects'><button className='nav_login_btn nav_btn'>Log in</button></Link>
                     </div>
 
                 </div>
